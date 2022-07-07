@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "ebc29332997541ca",
+            "max_int": "a09d7c506da6a667",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Tozkoparan Iskender",
+            "photo": "https://i.postimg.cc/mksCmTY6/20210102-115501-Kopya.png",
+            "voice": "https://ringy9.github.io/Tozkoparan-Iskender/qudio.mp4",
+            "video": "https://ringy9.github.io/Tozkoparan-Iskender/vidio1.mp4",
+            "stories": [
+              "https://i.postimg.cc/8zPB8kq2/073536d231bd782a144590414b74b5fd.jpg",
+"https://i.postimg.cc/mksCmTY6/20210102-115501-Kopya.png",
+"https://i.postimg.cc/Hnw4mrWg/32ca2afdae41f2beac98e2c2057c6408.jpg",
+"https://i.postimg.cc/jjDH5gqv/43af0bd28f9387bbead96faaa2fc7b1e.jpg",
+"https://i.postimg.cc/3rmZmcXc/50d292d469299dd381d318281158721b.jpg",
+"https://i.postimg.cc/j5J488GC/6c2f3f157b0f5f298b177969e55bf94f.jpg",
+"https://i.postimg.cc/13C0yhSf/85f1c89ecf96b502e06e6ca327cab4da.jpg",
+"https://i.postimg.cc/sDJ90G0P/9c57f73ef7755cdfb9f21c12c3bc312a.jpg",
+"https://i.postimg.cc/VLwWRW4L/bc29cb200c614ddd3a78c0c45491e8b7.jpg",
+"https://i.postimg.cc/C1DbCRqq/bcf7dc35807aacc52c9c8ac67b06a984.jpg",
+"https://i.postimg.cc/0NhpJYbv/db9fdfc3112b04593d9825e30bea8d65.jpg",
+            ],
+            "wallpapers": [
+             "https://i.postimg.cc/8zPB8kq2/073536d231bd782a144590414b74b5fd.jpg",
+"https://i.postimg.cc/mksCmTY6/20210102-115501-Kopya.png",
+"https://i.postimg.cc/Hnw4mrWg/32ca2afdae41f2beac98e2c2057c6408.jpg",
+"https://i.postimg.cc/jjDH5gqv/43af0bd28f9387bbead96faaa2fc7b1e.jpg",
+"https://i.postimg.cc/3rmZmcXc/50d292d469299dd381d318281158721b.jpg",
+"https://i.postimg.cc/j5J488GC/6c2f3f157b0f5f298b177969e55bf94f.jpg",
+"https://i.postimg.cc/13C0yhSf/85f1c89ecf96b502e06e6ca327cab4da.jpg",
+"https://i.postimg.cc/sDJ90G0P/9c57f73ef7755cdfb9f21c12c3bc312a.jpg",
+"https://i.postimg.cc/VLwWRW4L/bc29cb200c614ddd3a78c0c45491e8b7.jpg",
+"https://i.postimg.cc/C1DbCRqq/bcf7dc35807aacc52c9c8ac67b06a984.jpg",
+"https://i.postimg.cc/0NhpJYbv/db9fdfc3112b04593d9825e30bea8d65.jpg",
+            ]
+          
+        }
+    ]
+}
